@@ -19,3 +19,7 @@ spring:
           uri: lb://lagou-service-user
           predicates:
             - Path=/user/**
+
+ipflash:
+  count: 100
+  time: 1
