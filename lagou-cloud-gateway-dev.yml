@@ -22,4 +22,4 @@ spring:
 
 ipflash:
   count: 100
-  time: 1
+  time: 2
